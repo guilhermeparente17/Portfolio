@@ -12,6 +12,7 @@ import {
     Link,
     Linkedin,
     Github,
+    
     Whatsapp
 
 } from './InicioElements'
