@@ -2,5 +2,9 @@
     margin:0;
     padding: 0;
     outline: none;
-    background-color: #191a24;
+    list-style: none;
+    
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Rambla:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');

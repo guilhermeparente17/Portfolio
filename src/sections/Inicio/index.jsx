@@ -10,8 +10,12 @@ import {
     InicioListItems,
     Items,
     Link,
-    ImgLink
+    Linkedin,
+    Github,
+    Whatsapp
+
 } from './InicioElements'
+
 
 import Perfil from '../../assets/perfil.jpg'
 
@@ -27,7 +31,19 @@ export const Inicio = () => {
                 <InicioListItems>
                     <Items>
                         <Link>
-                            <ImgLink />
+                            <Linkedin />
+                        </Link>
+                    </Items>
+
+                    <Items>
+                        <Link>
+                            <Github />
+                        </Link>
+                    </Items>
+
+                    <Items>
+                        <Link>
+                            <Whatsapp />
                         </Link>
                     </Items>
                 </InicioListItems>
