@@ -20,7 +20,7 @@ const index = () => {
         <SobremimContainer>
             <SobremimTitle>Sobre mim</SobremimTitle>
             <SobremimContent>
-                <SobremimFoto src={ImagemPerfil} />
+                <SobremimFoto  src={ImagemPerfil} />
                 <SobremimDescription>
                     <SobremimText>
                         Me chamo <font color="white" face="'Anton', sans-serif"> Guilherme Parente</font>, tenho 26 anos, curso Análise e Desenvolvimento de Sistemas(último semestre), sou 
